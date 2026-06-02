@@ -1,7 +1,7 @@
 NLP/regulare-expression/data
-nyt.bigrams
-nyt.nextwords
-secret.bigram
-secret.nextword
-secret_ec.txt
-secret_ec.words
+NLP/regulare-expression/nyt.bigrams
+NLP/regulare-expression/nyt.nextwords
+NLP/regulare-expression/secret.bigram
+NLP/regulare-expression/secret.nextword
+NLP/regulare-expression/secret_ec.txt
+NLP/regulare-expression/secret_ec.words
